@@ -22,8 +22,7 @@ elif lado1 == lado2 or lado2 == lado3 or lado1 == lado3:
 elif lado1 != lado2 != lado3:
     tri =  "Triangulo é Escaleno"
 
-#if tri_possivel == 'V':
-#   possivel = "O Triangulo é possível!"
+
 
 print(tri_verdadeiro)
 print(tri)
